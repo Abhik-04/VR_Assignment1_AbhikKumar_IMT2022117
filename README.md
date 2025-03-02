@@ -13,12 +13,12 @@ This script will create a folder named coin\_detection\_outputs, which will cont
 This script will create a folder named image\_stitching\_outputs, which will contain all the required images.
 
 ## Directory Structure
-`assignment_1/
-    ├── coin_detection.py
-    ├── image_stitching.py
-    ├── coins.png
-    ├── img1.png
-    ├── img2.png
-    ├── img3.png
-    ├── coin_detection_results/
-    ├── stitched_outputss/`
+`assignment_1/` <br>
+    `├── coin_detection.py` <br>
+    `├── image_stitching.py` <br>
+    `├── coins.png` <br>
+    `├── img1.png` <br>
+    `├── img2.png` <br>
+    `├── img3.png` <br>
+    `├── coin_detection_results/` <br>
+    `├── stitched_outputss/`
