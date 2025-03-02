@@ -21,4 +21,16 @@ This script will create a folder named image\_stitching\_outputs, which will con
     `├── img2.png` <br>
     `├── img3.png` <br>
     `├── coin_detection_results/` <br>
-    `├── stitched_outputss/`
+    `├── stitched_outputss/` <br>
+
+\begin{verbatim}
+assignment_1/
+    ├── coin_detection.py
+    ├── image_stitching.py
+    ├── coins.png
+    ├── img1.png
+    ├── img2.png
+    ├── img3.png
+    ├── coin_detection_results/
+    ├── stitched_outputss/
+\end{verbatim}
